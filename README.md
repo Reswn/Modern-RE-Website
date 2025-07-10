@@ -40,7 +40,6 @@ Proyek ini bertujuan untuk:
 
 ## 📂 Struktur Folder
 .
-.
 ├── my-app/ # Folder utama Next.js App Router
 │ └── page.tsx # Halaman utama
 ├── components/ # Semua komponen UI
@@ -62,7 +61,7 @@ Proyek ini bertujuan untuk:
 │ └── globals.css
 ├── README.md # Dokumentasi proyek
 ├── package.json
-
+.
 
 
 ---
