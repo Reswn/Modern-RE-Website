@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="flex flex-shrink-0 items-center justify-between">
           <Image
             className="mr-2"
-            src="/RElogo.png"
+            src="/RELogo.png"
             width={60}
             height={30}
             alt="logo"
