@@ -36,7 +36,6 @@ Proyek ini bertujuan untuk:
 - [React](https://reactjs.org/) – Library utama untuk UI.
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework.
 - [Lucide Icons](https://lucide.dev/) – Ikon modern berbasis React.
-- [TypeScript (opsional tergantung setup)] – Untuk penulisan kode lebih aman dan terstruktur.
 
 ---
 
