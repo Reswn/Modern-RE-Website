@@ -1,6 +1,8 @@
 # Modern-Real-Estate-Website
 
 # 🏡 Real Estate Website - TUGAS 1 JDA
+## RENI KARTIKA SUWANDI
+### renisuwandi1011@gmail.com
 
 > **⚠️ Catatan:**  
 > Project ini dibuat sebagai **Tugas 1 JDA** dan **hanya untuk keperluan pembelajaran**.  
@@ -39,29 +41,33 @@ Proyek ini bertujuan untuk:
 ---
 
 ## 📂 Struktur Folder
+## 📂 Struktur Folder
+
+```bash
 .
-├── my-app/ # Folder utama Next.js App Router
-│ └── page.tsx # Halaman utama
-├── components/ # Semua komponen UI
-│ ├── Navbar.tsx
-│ ├── Service.tsx
-│ ├── Hero.tsx
-│ ├── AboutUs.tsx
-│ ├── FeatureProperties.tsx
-│ ├── HowItWorks.tsx
-│ ├── Testimonials.tsx
-│ ├── Faq.tsx
-│ ├── Search.tsx
-│ └── Footer.tsx
-├── constants/ # Data statis seperti array konten
-│ └── index.ts
-├── public/ # Gambar dan aset publik
-│ └── service.jpeg
-├── styles/ # Styling global
-│ └── globals.css
-├── README.md # Dokumentasi proyek
+├── app/                     # Folder utama Next.js App Router
+│   └── page.tsx            # Halaman utama
+├── components/             # Semua komponen UI
+│   ├── Navbar.tsx
+│   ├── Service.tsx
+│   ├── Hero.tsx
+│   ├── AboutUs.tsx
+│   ├── FeatureProperties.tsx
+│   ├── HowItWorks.tsx
+│   ├── Testimonials.tsx
+│   ├── Faq.tsx
+│   ├── Search.tsx
+│   └── Footer.tsx
+├── constants/              # Data statis seperti array konten
+│   └── index.ts
+├── public/                 # Gambar dan aset publik
+│   └── service.jpeg
+├── styles/                 # Styling global
+│   └── globals.css
+├── README.md               # Dokumentasi proyek
 ├── package.json
-.
+└── tsconfig.json
+
 
 
 ---
