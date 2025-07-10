@@ -40,7 +40,7 @@ Proyek ini bertujuan untuk:
 
 ---
 
-## 📂 Struktur Folder
+
 ## 📂 Struktur Folder
 
 ```bash
@@ -67,7 +67,7 @@ Proyek ini bertujuan untuk:
 ├── README.md               # Dokumentasi proyek
 ├── package.json
 └── tsconfig.json
-
+```
 
 
 ---
