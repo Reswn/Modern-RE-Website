@@ -1,5 +1,5 @@
 import { HOW_IT_WORKS } from "@/constants";
-import { Circle, CircleCheckBig } from "lucide-react";
+import { CircleCheckBig } from "lucide-react";
 
 const HowItWorks = () => {
   return (
