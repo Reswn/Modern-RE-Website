@@ -9,6 +9,10 @@
 
 ---
 
+🌐 **Live Demo**: [https://modern-re-website-hjy3.vercel.app/](https://modern-re-website-hjy3.vercel.app/)
+
+---
+
 ## 📌 Deskripsi Proyek
 
 Website ini adalah sebuah **platform properti real estate** sederhana yang dibangun menggunakan **Next.js** dan **Tailwind CSS**.  
@@ -36,27 +40,29 @@ Proyek ini bertujuan untuk:
 
 ## 📂 Struktur Folder
 .
-├── my-app/
+.
+├── my-app/ # Folder utama Next.js App Router
 │ └── page.tsx # Halaman utama
-├── components/
-│ ├── Navbar.tsx # Komponen navigasi
-│ ├── Service.tsx # Komponen layanan
-│ ├── Faq.tsx # Komponen FAQ
-│ ├── Hero.tsx # Komponen Hero section
-│ └── AboutUs.tsx
-│ └── FeatureProperties.tsx
-│ └── HowItWorks.tsx
+├── components/ # Semua komponen UI
+│ ├── Navbar.tsx
+│ ├── Service.tsx
+│ ├── Hero.tsx
+│ ├── AboutUs.tsx
+│ ├── FeatureProperties.tsx
+│ ├── HowItWorks.tsx
+│ ├── Testimonials.tsx
+│ ├── Faq.tsx
+│ ├── Search.tsx
 │ └── Footer.tsx
-│ └── Search.tsx
-│ └── Testimonials.tsx
-├── constants/
-│ └── index.ts # Data statis seperti teks dan array konten
-├── public/
-│ └── image-x.jpg # Gambar properti
-├── styles/
-│ └── globals.css # File styling global
+├── constants/ # Data statis seperti array konten
+│ └── index.ts
+├── public/ # Gambar dan aset publik
+│ └── service.jpeg
+├── styles/ # Styling global
+│ └── globals.css
 ├── README.md # Dokumentasi proyek
-└── ...
+├── package.json
+
 
 
 ---
@@ -83,6 +89,6 @@ Website ini didesain agar **responsif** dan dapat diakses dengan baik melalui pe
 
 1. **Clone repositori ini**
    ```bash
-   git clone https://github.com/Reswn/Modern-Real-Estate-Website.git
+   git clone https://github.com/Reswn/Modern-RE-Website.git
 
 
